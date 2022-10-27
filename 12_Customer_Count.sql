@@ -3,5 +3,4 @@
 /*Count the number of customers*/
 
 select count(*)
-from customers
-Groyp by gender;
+from customers;
